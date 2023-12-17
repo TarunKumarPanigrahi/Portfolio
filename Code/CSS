@@ -1,0 +1,21 @@
+.imgae img{
+    border: 2px solid rgb(14, 235, 235);
+    margin: 20px;
+    border-radius: 100px;
+}
+.imgea img{
+    border: 2px solid rgb(229, 255, 0) ;
+    padding: 0px;
+    margin: 20px;
+}
+#section{
+    border: 2px;
+
+}
+
+.contact form{
+    border: 2px solid #000;
+}
+
+--------------------------
+
